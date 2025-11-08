@@ -1,14 +1,6 @@
 DeathRipper Ransomware
 
 A highly advanced ransomware designed to encrypt your precious files and leave you begging for mercy.
-Table of Contents
-
-    Introduction
-    Getting Started
-    Features
-    Usage
-    Disclaimer
-
 Introduction
 
 DeathRipper is a cutting-edge ransomware that uses advanced encryption techniques to lock your files and demand a ransom. With its sophisticated persistence mechanism and clever social engineering tactics, DeathRipper is the ultimate tool for any aspiring hacker.

